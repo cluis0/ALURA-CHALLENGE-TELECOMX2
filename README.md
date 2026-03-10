@@ -222,7 +222,7 @@ PR-AUC | ~0.62 |
 
 ## Churn vs antigüedad del cliente
 
-![Tenure](images/Churn_rate_por_antiguedad_tenure_bins)
+![Tenure](images/Churn_rate_por_antiguedad_tenure_bins.png)
 
 ---
 
