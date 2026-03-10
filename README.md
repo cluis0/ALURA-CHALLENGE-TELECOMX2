@@ -204,25 +204,25 @@ PR-AUC | ~0.62 |
 
 ## Distribución de churn
 
-![Distribución churn](images/churn_distribution.png)
+![Distribución churn](images/Churn_general_tasa_base.png)
 
 ---
 
 ## Churn por tipo de contrato
 
-![Contrato](images/churn_contract.png)
+![Contrato](images/Churn_rate_por_tipo_de_contrato.png)
 
 ---
 
 ## Churn por método de pago
 
-![Pago](images/churn_payment_method.png)
+![Pago](images/Churn_rate_por_metodo_de_pago.png)
 
 ---
 
 ## Churn vs antigüedad del cliente
 
-![Tenure](images/churn_tenure.png)
+![Tenure](images/Churn_rate_por_antiguedad_tenure_bins)
 
 ---
 
